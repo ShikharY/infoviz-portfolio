@@ -65,15 +65,6 @@ To view the portfolio locally:
 
 3. Click on "View Portfolio" to access the complete portfolio content
 
-## 📄 License
-
-This project is for educational purposes as part of coursework. All visualizations and analysis are original work unless otherwise noted.
-
-## 📧 Contact
-
-For questions about this portfolio or the visualization techniques demonstrated:
-
-- GitHub: [@ShikharY](https://github.com/ShikharY)
 - Email: [Your Email]
 
 ---
