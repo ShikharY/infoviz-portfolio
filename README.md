@@ -4,7 +4,7 @@ This repository contains my portfolio for an Information Visualization course, s
 
 ## 🌐 Live Portfolio
 
-Visit the live portfolio at: [https://shikhary.github.io/infoviz-portfolio/](https://shikhary.github.io/infoviz-portfolio/)
+Visit the live portfolio at: [https://ShikharY.github.io/infoviz-portfolio/](https://ShikharY.github.io/infoviz-portfolio/)
 
 ## 📖 About This Portfolio
 
