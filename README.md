@@ -28,15 +28,7 @@ This portfolio demonstrates my understanding and application of:
 - **Data Processing**: Pandas, NumPy
 - **Web Technologies**: HTML, CSS, JavaScript for portfolio presentation
 
-## 📁 Repository Structure
 
-```
-infoviz-portfolio/
-├── index.html          # Portfolio landing page
-├── portfolio.html      # Complete portfolio (exported from Jupyter)
-├── README.md           # This file
-└── assets/            # Images, data files, and other resources
-```
 
 ## 📚 Course Information
 
